@@ -339,6 +339,9 @@ h4{
 .logo{
     height: 80px;
 }
+.overhidden{
+    overflow: hidden;
+}
 
 
 .mb-0{

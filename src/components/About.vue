@@ -3,8 +3,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
-                    <p class="gray-txt">На все случаи жизни</p>
-                    <h2>Мы предоставляем полный спектр услуг</h2>
+                    <div class="overhidden mb-40">
+                        <p class="gray-txt wow slideInUp">На все случаи жизни</p>
+                        <h2 class="wow mb-0 slideInUp">Мы предоставляем полный спектр услуг</h2>
+                    </div>
+                    
                     <div class="row">
                         <div class="col-lg-6">
                             <p class="simple-txt">

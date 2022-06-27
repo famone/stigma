@@ -17,13 +17,23 @@
         <div class="container">
             <img src="../assets/img/tel.png" class="tel wow fadeInUp">
             <div class="row">
-                <div class="col-lg-4 wow fadeIn">
-                    <p class="gray-txt">Юридическая фирма</p>
-                    <h2>Настоящие <br>Решения</h2>
+                <div class="col-lg-4">
+                    <div class="overhidden mb-6">
+                        <p class="gray-txt wow slideInUp">Юридическая фирма</p>
+                    </div>
+                    <div class="overhidden mb-40">
+                        <h2 class="mb-0 wow slideInUp">Настоящие <br>Решения</h2>
+                    </div>
+                    
+                    
                 </div>
-                <div class="col-lg-8 wow fadeIn">
-                    <p class="big-white">Tracking System</p>
-                    <h1>Услуги мониторинга <br> грузовиков в СНГ</h1>
+                <div class="col-lg-8">
+                     <div class="overhidden mb-16">
+                        <p class="mb-0 big-white wow slideInUp">Tracking System</p>
+                     </div>
+                     <div class="overhidden mb-16">
+                         <h1 class="mb-0 wow slideInUp">Услуги мониторинга <br> грузовиков в СНГ</h1>
+                     </div>
                     <button class="simple-btn">
                         Оформить заявку
                         <span class="mdi mdi-arrow-right"></span>

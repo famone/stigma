@@ -3,8 +3,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <p class="gray-txt">Мы предоставляем</p>
-                    <h2>Наша специализация</h2>
+                    <div class="overhidden mb-6">
+                        <p class="mb-0 wow slideInUp gray-txt">Мы предоставляем</p>
+                    </div>
+                    <div class="overhidden mb-40">
+                        <h2 class="mb-0  wow slideInUp">Наша специализация</h2>
+                    </div>
                 </div>
                 <div class="col-lg-3" v-for="(item, index) in services" :key="index">
                     <div class="serv-box">

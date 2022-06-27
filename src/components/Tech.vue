@@ -6,8 +6,12 @@
                     <img src="../assets/img/tech.png" class="tech-bg wow fadeInLeft">
                 </div>
                 <div class="col-lg-7 offset-lg-1">
-                    <p class="gray-txt">Дело техники</p>
-                    <h2>Устройства мониторинга</h2>
+                    <div class="overhidden mb-6">
+                        <p class="mb-0 wow slideInUp gray-txt">Дело техники</p>
+                    </div>
+                    <div class="overhidden mb-40">
+                        <h2 class="mb-0  wow slideInUp">Устройства мониторинга</h2>
+                    </div>
                     <p class="simple-txt mb-40">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum esse dolor iste sapiente ullam ab debitis odit neque repellat repellendus, accusamus sed eius eos magni distinctio voluptatum odio eligendi facilis doloribus! Voluptate aliquid voluptas facilis quaerat. </p>
 
                     <div class="row">

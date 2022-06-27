@@ -20,8 +20,12 @@
             </div>
             <div class="row">
                 <div class="col-lg-10 offset-lg-1">
-                    <p class="gray-txt">FAQ</p>
-                    <h2>Вопросы и ответы</h2>
+                    <div class="overhidden mb-6">
+                        <p class="mb-0 wow slideInUp gray-txt">FAQ</p>
+                    </div>
+                    <div class="overhidden mb-40">
+                        <h2 class="mb-0  wow slideInUp">Вопросы и ответы</h2>
+                    </div>
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="acc" v-for="(item, id) in faqs" :key="id"
