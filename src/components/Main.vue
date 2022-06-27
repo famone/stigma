@@ -19,7 +19,7 @@
             <div class="row">
                 <div class="col-lg-4">
                     <div class="overhidden mb-6">
-                        <p class="gray-txt wow slideInUp">Решения для вашего бизнесса</p>
+                        <p class="gray-txt wow slideInUp">Решения для вашего бизнеса</p>
                     </div>
                     <div class="overhidden mb-40">
                         <h2 class="mb-0 wow slideInUp">Настоящий <br>Сервис</h2>
