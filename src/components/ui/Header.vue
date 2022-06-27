@@ -9,9 +9,9 @@
                     <span></span>
                     <span></span>
                 </div>
-                <p class="white-link">г. Минск, Лермантова 24</p>
-                <p class="white-link"><a href="">+375 (044) 325-12-55</a></p>
-                <p class="white-link"><a href="">info@Stigma.by</a></p>
+                <p class="white-link">г. Минск, Богдановича 7</p>
+                <p class="white-link"><a href="tel:+375296090809">+375 (29) 609-08-09</a></p>
+                <p class="white-link"><a href="mailto:office@realservice.site">office@realservice.site</a></p>
             </div>
         </div>
     </header>

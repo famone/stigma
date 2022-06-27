@@ -28,22 +28,22 @@ export default {
                 {
                     img: require('../assets/img/c1.png'),
                     txt: 'Адрес',
-                    name: 'Республика Беларусь <br> г. Минск, Лермантова 24'
+                    name: 'Республика Беларусь <br> г. Минск, Богдановича 7'
                 },
                 {
                     img: require('../assets/img/c2.png'),
                     txt: 'Телефон',
-                    name: '+375 (044) 325-12-55 <br><br>'
+                    name: '+375 (29) 609-08-09 <br><br>'
                 },
                 {
                     img: require('../assets/img/c3.png'),
                     txt: 'E-mail',
-                    name: 'info@Stigma.by <br><br>'
+                    name: 'office@realservice.site <br><br>'
                 },
                 {
                     img: require('../assets/img/c4.png'),
                     txt: 'Юр. информация',
-                    name: 'ИНН: 1231241244214 <br> ООО Стигма-софт'
+                    name: 'УНП: 193155389 <br> ООО Настоящий сервис'
                 },
             ]
         }

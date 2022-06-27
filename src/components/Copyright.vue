@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-lg-4">
                     <p class="simple-txt">
-                        © ООО Настоящие Решения - 2022
+                        © ООО Настоящий Сервис - 2022
                     </p>
                 </div>
                 <div class="col-lg-4 text-center">
